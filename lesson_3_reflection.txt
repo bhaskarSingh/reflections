@@ -9,3 +9,6 @@ and chaos.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 fork means coping repository from some else's github account to our github account.clone means coping
 gitHub repository to our computer(locally).branches means branching out in your repository on your local computer. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+having the last copy of the remote commit stored locally would help us in easily pushing commit to gitHub.
